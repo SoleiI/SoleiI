@@ -26,7 +26,7 @@
   <h5>Tools</h5>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 
