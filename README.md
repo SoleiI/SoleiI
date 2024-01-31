@@ -4,15 +4,13 @@
 
 <div align="center">
   
-  <h5>Main Languages</h5>
+  <h5>Languages</h5>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-  <h6>Sub Languages</h6>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <p></p>
   
-  <h5>Skills</h5>
+  <h5>Skill</h5>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
@@ -23,7 +21,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <p></p>
 
-  <h5>Now Studying</h5>
+  <h5>Interest in</h5>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <p></p>
@@ -42,10 +40,10 @@
 <br>
 
 ![SoleiI's github stats](https://github-readme-stats.vercel.app/api?username=SoleiI&show_icons=true)
-<br><br>
+<!--br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmsun0524)](https://solved.ac/profile/kmsun0524)
 <br><br>
-<img width="429" alt="2023 프로그래머스 연말정산" src="https://github.com/SoleiI/SoleiI/assets/76639061/677828a7-bb33-4c0e-a704-763f451abf36">
+<img width="429" alt="2023 프로그래머스 연말정산" src="https://github.com/SoleiI/SoleiI/assets/76639061/677828a7-bb33-4c0e-a704-763f451abf36"-->
 
 </div>
